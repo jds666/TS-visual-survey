@@ -1,5 +1,5 @@
 {
-    "title": "Host Any Paper Survey Online ",
+    "title": "Paper Sort",
     "colors": [
         "#569c8e",
         "#dbb651",
@@ -12,81 +12,2611 @@
     "topTheme": "#333",
     "papers": [
         {
-            "name": "DashBot: Insight-Driven Dashboard Generation Based on Deep Reinforcement Learning",
-            "venue": "VIS",
+            "name": "Tree visualization with tree-maps: 2-d space-filling approach",
+            "venue": "CCF A",
+            "year": 1992,
+            "others": {
+                "authors": "Shneiderman 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "模式识别",
+                "观察探索"
+            ],
+            "技术分类": [
+                "树图"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "基于特征的时间序列数据场可视化方法",
+            "venue": "CCF A",
+            "year": 1996,
+            "others": {
+                "authors": "梁训东 和 刘慎权",
+                "底层算法": "特征抽取->数据简化->可视化、特征跟踪",
+                "others": "可交互动态展示"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "模式识别",
+                "观察探索"
+            ],
+            "技术分类": [
+                "场域"
+            ],
+            "数据来源": [
+                "科学数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "ThemeRiver: visualizing thematic changes in large document collections",
+            "venue": "CCF A",
+            "year": 2002,
+            "others": {
+                "authors": "Havre 等",
+                "底层算法": "ThemeRiver工具、河流的宽度表示主题的集体强度",
+                "others": "识别 主题变化模式和趋势"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "趋势分析",
+                "观察探索"
+            ],
+            "技术分类": [
+                "地平线图"
+            ],
+            "数据来源": [
+                "专利文档集合"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Holographic Video Display of Time-Series Volumetric Medical Data",
+            "venue": "CCF A",
+            "year": 2003,
+            "others": {
+                "authors": "Plesniak 等",
+                "底层算法": "全息视频",
+                "others": "三维交互"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "3D显示技术"
+            ],
+            "数据来源": [
+                "医学数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visually mining and monitoring massive time series",
+            "venue": "CCF A",
+            "year": 2004,
+            "others": {
+                "authors": "Lin 等",
+                "底层算法": "子序列树可全局预览，差异树方便比较",
+                "others": "多领域通用工具VizTree"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "异常发现"
+            ],
+            "技术分类": [
+                "多图联动"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Time-series Bitmaps: a Practical Visualization Tool for Working with Large Time Series Databases",
+            "venue": "CCF B",
+            "year": 2005,
+            "others": {
+                "authors": "Kumar 等",
+                "底层算法": "图像设计->时间序列位图->颜色编码",
+                "others": "可以识别聚集、异常等"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "识别异常，分析规律"
+            ],
+            "技术分类": [
+                "颜色编码的二维map图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Representing Unevenly-Spaced Time Series Data for Visualization and Interactive Exploration",
+            "venue": "CCF C",
+            "year": 2005,
+            "others": {
+                "authors": "Aris 等",
+                "底层算法": "",
+                "others": "不均匀数据的可视化方式"
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Incremental stock time series data delivery and visualization",
+            "venue": "CCF B",
+            "year": 2005,
+            "others": {
+                "authors": "Fu 和 Chung",
+                "底层算法": "数据更新->SB-Tree->加速排序",
+                "others": "针对新增数据点的SB - Tree增量更新问题，提出了周期性重建、批量更新和逐点更新3类下的5种更新方法。"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "数据更新"
+            ],
+            "技术分类": [
+                "新增数据更新"
+            ],
+            "数据来源": [
+                "金融数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "A spectral visualization system for analyzing financial time series data",
+            "venue": "CCF B",
+            "year": 2006,
+            "others": {
+                "authors": "Keim 等",
+                "底层算法": "图像设计->颜色编码->增长矩阵",
+                "others": "增长矩阵显示区间增长率"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "颜色编码的二维map图"
+            ],
+            "数据来源": [
+                "金融数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Multi-resolution techniques for visual exploration of large time-series data",
+            "venue": "CCF B",
+            "year": 2007,
+            "others": {
+                "authors": "Hao 等",
+                "底层算法": "图像设计->颜色编码->背景+子区间兴趣点",
+                "others": "CPU利用率数据,多分辨率可视化"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "颜色编码的二维map图"
+            ],
+            "数据来源": [
+                "系统数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visualizing multivariate time series data to detect specific medical conditions",
+            "venue": "CCF C",
+            "year": 2008,
+            "others": {
+                "authors": "Ordóñez 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "模式识别",
+                "异常发现"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Stock time series visualization based on data point importance",
+            "venue": "CCF C",
+            "year": 2008,
+            "others": {
+                "authors": "Fu 和 Chung",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "模式识别",
+                "观察探索"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Sigma lenses: focus-context transitions combining space, time and translucence",
+            "venue": "CCF A",
+            "year": 2008,
+            "others": {
+                "authors": "Pietriga 和 Appert",
+                "底层算法": "多尺度，焦点+上下文，透镜，透明度",
+                "others": "多维度，时间 空间维度"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "二维图片"
+            ],
+            "数据来源": [
+                "卫星照片"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "LiveRAC: interactive visual exploration of system management time-series data",
+            "venue": "CCF A",
+            "year": 2008,
+            "others": {
+                "authors": "McLachlan 等",
+                "底层算法": "界面设计->排列布局、多级细节",
+                "others": "可交互"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "网络运行监控"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Interactive shape specification for pattern search in time series",
+            "venue": "CCF C",
+            "year": 2008,
+            "others": {
+                "authors": "Buono 和 Simeone",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "模式识别",
+                "观察探索"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Advances in clustering and visualization of time series using GTM through time",
+            "venue": "CCF B",
+            "year": 2008,
+            "others": {
+                "authors": "Olier 和 Vellido",
+                "底层算法": "生成拓扑映射->聚类与可视化",
+                "others": "GTM-TT的可视化能力"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "识别突发"
+            ],
+            "技术分类": [
+                "聚类成员图"
+            ],
+            "数据来源": [
+                "多领数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Sizing the horizon: the effects of chart size and layering on the graphical perception of time series visualizations",
+            "venue": "CCF A",
+            "year": 2009,
+            "others": {
+                "authors": "Heer 等",
+                "底层算法": "对比评估折线图与地平线图在数值比较上的速度与准确性",
+                "others": "未来考虑高分辨率显示效果"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图",
+                "地平线图"
+            ],
+            "数据来源": [
+                "合成数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Dynamic Identification and Visualization of Gene Regulatory Networks from Time-Series Gene Expression Profiles",
+            "venue": "CCF C",
+            "year": 2009,
+            "others": {
+                "authors": "Chen 和 Han",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "模式识别",
+                "观察探索"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "基因表达水平"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Stack zooming for multi-focus interaction in time-series data visualization",
+            "venue": "CCF C",
+            "year": 2010,
+            "others": {
+                "authors": "Javed 和 Elmqvist",
+                "底层算法": "堆栈缩放（多焦点互动）",
+                "others": "类似于 上下文+焦点 的交互式可视化"
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "股票数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "SignalLens: Focus+Context Applied to Electronic Time Series",
+            "venue": "CCF A",
+            "year": 2010,
+            "others": {
+                "authors": "Kincaid",
+                "底层算法": "界面设计->焦点+上下文，透镜，轨迹对齐",
+                "others": "可视化工具"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "探索分析"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "电子信号"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Graphical Perception of Multiple Time Series",
+            "venue": "CCF A",
+            "year": 2010,
+            "others": {
+                "authors": "Javed 和 McDonnel",
+                "底层算法": "对比评估四种时间序列可视化技术，量化用户研究",
+                "others": "未来考虑使用聚合时间序列"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "异常发现",
+                "观察探索",
+                "模式识别"
+            ],
+            "技术分类": [
+                "折线",
+                "编织",
+                "多图",
+                "地平线"
+            ],
+            "数据来源": [
+                "合成数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "GATE: software for the analysis and visualization of high-dimensional time series expression data",
+            "venue": "CCF B",
+            "year": 2010,
+            "others": {
+                "authors": "MacArthur 等",
+                "底层算法": "软件开发->聚类、基因分组",
+                "others": "高维生物分子时间序列"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "二维图像"
+            ],
+            "数据来源": [
+                "生物数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visualization of Time‐Series Data in Parameter Space for Understanding Facial Dynamics",
+            "venue": "CCF B",
+            "year": 2011,
+            "others": {
+                "authors": "Tam 等",
+                "底层算法": "将时间序列数据转换为参数空间并通过可视化手段来增强对数据动态特性的理解",
+                "others": "可视化用于理解算法空间，表情分类"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "辅助决策"
+            ],
+            "技术分类": [
+                "平行坐标图"
+            ],
+            "数据来源": [
+                "面部视频数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "VisIO: Enabling Interactive Visualization of Ultra-Scale, Time Series Data via High-Bandwidth Distributed I/O Systems",
+            "venue": "CCF B",
+            "year": 2011,
+            "others": {
+                "authors": "Mitchell 等",
+                "底层算法": "分布式文件系统(HDFS)优化的I/O库、数据局部性感知的调度算法",
+                "others": "这是一篇发表在并行计算相关领域的论文，主要是针对Petascale模拟和大规模时间序列数据的交互式可视化，提出了新的I/O库VisIO，通过Hadoop分布式文件系统(HDFS)实现I/O带宽的线性扩展，并通过调度算法优化数据局部性，提升了可视化应用的交互性能。"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "科学数据可视化",
+                "高性能计算"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "KronoMiner: using multi-foci navigation for the visual exploration of time-series data",
+            "venue": "CCF A",
+            "year": 2011,
+            "others": {
+                "authors": "Zhao 和 Chevalier",
+                "底层算法": "界面设计->环形布局、多视图协调、通用性",
+                "others": "专家工具"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "模式识别",
+                "异常发现",
+                "趋势分析",
+                "分类比较",
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Exploratory Analysis of Time-Series with ChronoLenses",
+            "venue": "CCF A",
+            "year": 2011,
+            "others": {
+                "authors": "Zhao 等",
+                "底层算法": "界面设计->”透镜“聚焦，转换数据点->可动态选择输入区域",
+                "others": "可交互，与KronoMiner一个作者"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "CloudLines: Compact Display of Event Episodes in Multiple Time-Series",
+            "venue": "CCF A",
+            "year": 2011,
+            "others": {
+                "authors": "Krstajic 等",
+                "底层算法": "图像设计->时间轴扭曲，上下文方法",
+                "others": "交互式失真、镜头放大技术"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "探索分析"
+            ],
+            "技术分类": [
+                "基于密度的图，折线图太密集了"
+            ],
+            "数据来源": [
+                "大规模数据",
+                "在线增量数据",
+                "时间序列事件"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "STFMap: query- and feature-driven visualization of large time series data sets",
+            "venue": "CCF B",
+            "year": 2012,
+            "others": {
+                "authors": "Candan 等",
+                "底层算法": "交互式系统->4种图的演示",
+                "others": "STFMap系统中有4种图，分段图、扭曲图、拉伸图、特征图"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "SAX二维图像"
+            ],
+            "数据来源": [
+                "经济数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "RankExplorer: Visualization of Ranking Changes in Large Time Series Data",
+            "venue": "CCF A",
+            "year": 2012,
+            "others": {
+                "authors": "Shi 等",
+                "底层算法": "图像设计->趋势曲线设计->排名变化",
+                "others": "堆叠图-> RankExplorer"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察排名"
+            ],
+            "技术分类": [
+                "堆叠图"
+            ],
+            "数据来源": [
+                "搜索数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Lin-spiration: using a mixture of spiral and linear visualization layouts to explore time series",
+            "venue": "CCF B",
+            "year": 2012,
+            "others": {
+                "authors": "Graells 和 Jaimes",
+                "底层算法": "图像设计->线性与螺旋->焦点+上下文",
+                "others": "原型实现：Javascript 、SVG。"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "线性与螺旋图"
+            ],
+            "数据来源": [
+                "金融数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Comparative Evaluation of an Interactive Time-Series Visualization that Combines Quantitative Data with Qualitative Abstractions",
+            "venue": "CCF B",
+            "year": 2012,
+            "others": {
+                "authors": "Aigner 等",
+                "底层算法": "新可视化技术->结合定量与定性（颜色编码与空间位置编码）",
+                "others": "STZ可视化技术与另一种定量与定性并列的方法进行比较结果说明前者测试反应速度快"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图与颜色编码"
+            ],
+            "数据来源": [
+                "血糖数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "基于ThemeRiver的可视化技术发展综述",
+            "venue": "CCF B",
+            "year": 2013,
+            "others": {
+                "authors": "张龙飞 等",
+                "底层算法": "经典、3D、其他模型结合、改进与发展",
+                "others": "Havre 等ThemeRiver，综述"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "分析趋势"
+            ],
+            "技术分类": [
+                "ThemeRiver"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visual Traffic Jam Analysis Based on Trajectory Data",
+            "venue": "CCF A",
+            "year": 2013,
+            "others": {
+                "authors": "Wang 等",
+                "底层算法": "可视化分析工具->交互式界面",
+                "others": "交通拥堵分析"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "热图"
+            ],
+            "数据来源": [
+                "城市出租车轨迹数据",
+                "北京出租车数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips",
+            "venue": "CCF A",
+            "year": 2013,
+            "others": {
+                "authors": "Ferreira 等",
+                "底层算法": "可视化分析工具->交互式界面",
+                "others": "轨迹可视化"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "热图"
+            ],
+            "数据来源": [
+                "城市出租车轨迹数据",
+                "移动数据，纽约出租车数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visual Analytics for Model Selection in Time Series Analysis",
+            "venue": "CCF A",
+            "year": 2013,
+            "others": {
+                "authors": "Bogl 等",
+                "底层算法": "可视化分析工具->交互式界面",
+                "others": "帮助领域专家选择统计模型"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "模型选择"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Time series visualization based on shape features",
+            "venue": "CCF C",
+            "year": 2013,
+            "others": {
+                "authors": "Li 和 Yang",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "模式识别",
+                "异常发现",
+                "观察探索"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "ParallelCluster:一种时序多维数据的可视化方法",
+            "venue": "CCF B",
+            "year": 2013,
+            "others": {
+                "authors": "姚中华 等",
+                "底层算法": "图像创新->增加时间维度，平行坐标系扩展到三维空间的方法",
+                "others": "OpenGL 开发，显示远近多个平行坐标图透明度不一样，生长曲线移动速度"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "平行坐标图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Interactive horizon graphs: improving the compact visualization of multiple time series",
+            "venue": "CCF A",
+            "year": 2013,
+            "others": {
+                "authors": "Perin 等",
+                "底层算法": "图像设计-交互式水平图",
+                "others": "交互技术"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "水平图+缩减线图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "多源网络安全数据时序可视分析方法研究",
+            "venue": "CCF B",
+            "year": 2014,
+            "others": {
+                "authors": "赵颖 等",
+                "底层算法": "原型系统设计->两种堆叠流图绘制",
+                "others": "这篇文章创造了对比堆叠流图"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "趋势分析和识别异常"
+            ],
+            "技术分类": [
+                "堆叠流图"
+            ],
+            "数据来源": [
+                "网络安全数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Task-driven evaluation of aggregation in time series visualization",
+            "venue": "CCF A",
+            "year": 2014,
+            "others": {
+                "authors": "Albers 等",
+                "底层算法": "用户研究->聚合评估->聚合有效性",
+                "others": "8种可视化技术"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察识别"
+            ],
+            "技术分类": [
+                "调研"
+            ],
+            "数据来源": [
+                "合成数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Stroscope: Multi-Scale Visualization of Irregularly Measured Time-Series Data",
+            "venue": "CCF A",
+            "year": 2014,
+            "others": {
+                "authors": "Cho 等",
+                "底层算法": "界面设计-整合不同图->用户研究",
+                "others": "交互式时序数据可视化工具 C#"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "整合折线图与条形图"
+            ],
+            "数据来源": [
+                "血压测量数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Qualizon graphs: space-efficient time-series visualization with qualitative abstractions",
+            "venue": "CCF C",
+            "year": 2014,
+            "others": {
+                "authors": "Federico 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "模式识别",
+                "趋势分析"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "M4: A Visualization-Oriented Time Series Data Aggregation",
+            "venue": "CCF A",
+            "year": 2014,
+            "others": {
+                "authors": "Jugel 等",
+                "底层算法": "数据缩减技术->数据聚合技术",
+                "others": "M4聚合技术选择每个时间间隔（对应于线图的像素列）中的最小值、最大值、第一个值和最后一个值，这样就能够用更少的数据点来近似原始数据的可视化表示。"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "大规模数据",
+                "数据库"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "A strategy-based ecological(?) display for time- series structural change diagnosis",
+            "venue": "CCF C",
+            "year": 2014,
+            "others": {
+                "authors": "Hilliard 和 Jamieson",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "异常发现",
+                "模式识别",
+                "趋势分析"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "A matter of time: Applying a data–users–tasks design triangle to visual analytics of time-oriented data",
+            "venue": "CCF C",
+            "year": 2014,
+            "others": {
+                "authors": "Miksch 和 Aigner",
+                "底层算法": "数据、用户、任务三角模型",
+                "others": "https://browser.timeviz.net 各种交互式图像的网站"
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "探索趋势"
+            ],
+            "技术分类": [
+                "交互式图"
+            ],
+            "数据来源": [
+                "流行病数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "运用平行坐标系的多变元时序数据可视化方法",
+            "venue": "CCF B",
+            "year": 2015,
+            "others": {
+                "authors": "董重 和 魏迎梅",
+                "底层算法": "数据处理->时间维分段（抽样）和边集束",
+                "others": "C + + 和 OpenGL"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "趋势分析和突变检测"
+            ],
+            "技术分类": [
+                "平行指标图"
+            ],
+            "数据来源": [
+                "多变元数据 气象数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "大规模天文时序粒子数据的可视化",
+            "venue": "CCF A",
+            "year": 2015,
+            "others": {
+                "authors": "单桂华 等",
+                "底层算法": "基于统计直方图的时序色调映射算法（加速）、动态场景剪裁算法（图像增强、更清晰）",
+                "others": "高动态范围; 粒子绘制; 科学可视化; 色调映射"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "二维静态图像"
+            ],
+            "数据来源": [
+                "大规模数据",
+                "天文数据（科学数据）"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visualization Tool for Boundary Image Matching Based on Time-Series Data",
+            "venue": "CCF B",
+            "year": 2015,
+            "others": {
+                "authors": "Moon 等",
+                "底层算法": "系统开发->时序数据匹配，使用距离查询k近邻->可视化",
+                "others": "可视化工具,客户端-服务器架构"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "分析挖掘"
+            ],
+            "技术分类": [
+                "折线图",
+                "极坐标"
+            ],
+            "数据来源": [
+                "照片数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visualization of time-series sensor data to inform the design of just-in-time adaptive stress interventions",
+            "venue": "CCF A",
+            "year": 2015,
+            "others": {
+                "authors": "Sharmin 等",
+                "底层算法": "用户研究，界面设计",
+                "others": "个性化干预设计"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "指导设计"
+            ],
+            "技术分类": [
+                "多种类"
+            ],
+            "数据来源": [
+                "穿戴式传感器数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "TimeClassifier: a visual analytic system for the classification of multi-dimensional time series data",
+            "venue": "CCF C",
+            "year": 2015,
+            "others": {
+                "authors": "Walker 等",
+                "底层算法": "可视分析系统->多维数据",
+                "others": "两个案例研究，也有用户研究"
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "生物数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "一种针对农残检测数据的时序分组可视化方法",
+            "venue": "CCF B",
+            "year": 2016,
+            "others": {
+                "authors": "陈红倩 等",
+                "底层算法": "图像设计->融合散点图、气泡图、堆叠玫瑰图等",
+                "others": "组合效果图更加直观"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "饼图"
+            ],
+            "数据来源": [
+                "农残数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "多视图合作的网络流量时序数据可视分析",
+            "venue": "CCF A",
+            "year": 2016,
+            "others": {
+                "authors": "赵颖 等",
+                "底层算法": "界面设计->多主体、4种视图组件->有案例分析",
+                "others": "除了界面设计，算是应用文章"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "多视图联动",
+                "平行坐标图",
+                "矩阵图",
+                "折线图等"
+            ],
+            "数据来源": [
+                "网络流量数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visual mining of time series using a tubular visualization",
+            "venue": "CCF C",
+            "year": 2016,
+            "others": {
+                "authors": "Bouali 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "模式识别",
+                "异常发现",
+                "趋势分析"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "TSmap3D: Browser visualization of high dimensional time series data",
+            "venue": "CCF C",
+            "year": 2016,
+            "others": {
+                "authors": "Kamburugamuve 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "趋势分析",
+                "分类比较"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Time-Series Plots Integrated in Parallel-Coordinates Displays",
+            "venue": "CCF B",
+            "year": 2016,
+            "others": {
+                "authors": "Gruendl 等",
+                "底层算法": "图像创新->增加时间轴->透视原理",
+                "others": "可交互、集成性"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "平行坐标图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "TimeNotes: A Study on Effective Chart Visualization and Interaction Techniques for Time-Series Data",
+            "venue": "CCF A",
+            "year": 2016,
+            "others": {
+                "authors": "Walker 等",
+                "底层算法": "过度绘制->界面缩放->分层导航技术",
+                "others": "有助于沟通，与ChronoLenses有关系"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "动物行为数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "STAC: Enhancing stacked graphs for time series analysis",
+            "venue": "CCF C",
+            "year": 2016,
+            "others": {
+                "authors": "Wang 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "分类比较"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Matrix Profile III: The Matrix Profile Allows Visualization of Salient Subsequences in Massive Time Series",
+            "venue": "CCF B",
+            "year": 2016,
+            "others": {
+                "authors": "Yeh 和 Van Herle",
+                "底层算法": "多维缩放->MDL子序列提取算法",
+                "others": "MDL子序列提取算法可能也可以用在其他地方"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "MDS图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Investigating Time Series Visualisations to Improve the User Experience",
+            "venue": "CCF A",
+            "year": 2016,
+            "others": {
+                "authors": "Adnan 等",
+                "底层算法": "研究设计->用户研究->提示交互好",
+                "others": "评估交互技术、编码有效性、不同坐标系"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "评估有效性"
+            ],
+            "技术分类": [
+                "图像",
+                "交互评估"
+            ],
+            "数据来源": [
+                "合成数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Interactive Visualization of Multivariate Time Series Data",
+            "venue": "CCF B",
+            "year": 2016,
+            "others": {
+                "authors": "Martin 和 Quach",
+                "底层算法": "多维缩放->交互式选择感兴趣的数据->显示折线图",
+                "others": "DAC 是Slycat的一个插件，使用JavaScript编写，控件使用jQuery"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "便于数据分析"
+            ],
+            "技术分类": [
+                "MDS图",
+                "折线图"
+            ],
+            "数据来源": [
+                "天气数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement",
+            "venue": "CCF A",
+            "year": 2017,
+            "others": {
+                "authors": "Bryan 等",
+                "底层算法": "界面增加注释，数据讲故事，使用Java",
+                "others": "数据兴趣点（POI）上注释"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "数据展示"
+            ],
+            "技术分类": [
+                "图像辅助"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Transition Icons for Time-Series Visualization and Exploratory Analysis",
+            "venue": "CCF C",
+            "year": 2018,
+            "others": {
+                "authors": "Nickerson 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "分类比较"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Segmented Time-Series Plot: A New Design Technique for Visualization of Industrial Data",
+            "venue": "CCF B",
+            "year": 2018,
+            "others": {
+                "authors": "Lei 等",
+                "底层算法": "信息过载->界面设计->分段技术",
+                "others": "机床传感器数据，在一个已有的软件上开发实现"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "工业数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "MultiStream: A Multiresolution Streamgraph Approach to Explore Hierarchical Time Series",
+            "venue": "CCF A",
+            "year": 2018,
+            "others": {
+                "authors": "Cuenca 等",
+                "底层算法": "界面设计，多分辨率，交互技术 ",
+                "others": "参照了ThemeRiver，这篇加了个过渡区域"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "趋势",
+                "分类"
+            ],
+            "技术分类": [
+                "流图，堆积图"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Identification and visualization of differential isoform expression in RNA-seq time series",
+            "venue": "CCF B",
+            "year": 2018,
+            "others": {
+                "authors": "Nueda 等",
+                "底层算法": "软件开发->聚类、基因分组",
+                "others": "基因测序、生物信息学开源软件"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "数据分析"
+            ],
+            "技术分类": [
+                "散点",
+                "折线图"
+            ],
+            "数据来源": [
+                "基因序列数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "面向系统辨识的火电控制时序数据可视分析",
+            "venue": "CCF A",
+            "year": 2019,
+            "others": {
+                "authors": "纪连恩 等",
+                "底层算法": "界面设计->上下文+焦点->动态关联",
+                "others": "应用、工业场景"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "筛选评估"
+            ],
+            "技术分类": [
+                "多视图联动"
+            ],
+            "数据来源": [
+                "工业数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Visual‐Interactive Preprocessing of Multivariate Time Series Data",
+            "venue": "CCF B",
+            "year": 2019,
+            "others": {
+                "authors": "Bernard 等",
+                "底层算法": "多元时序数据(MVTS)预处理->六个核心任务->原型工具(颜色编码)",
+                "others": "使用交互式可视化帮助人们预处理数据"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "数据预处理"
+            ],
+            "技术分类": [
+                "多视图"
+            ],
+            "数据来源": [
+                "多领域数据(光伏数据",
+                "天气数据)"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Temporal Treemaps: Static Visualization of Evolving Trees",
+            "venue": "CCF A",
+            "year": 2019,
+            "others": {
+                "authors": "Köpp 和 Weinkauf",
+                "底层算法": "界面设计->树图->树加速绘制",
+                "others": "与 Temporal Merge Tree Maps 是一个作者"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "二维静态图像"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Popup-Plots: Warping Temporal Data Visualization",
+            "venue": "CCF A",
+            "year": 2019,
+            "others": {
+                "authors": "Schmidt 等",
+                "底层算法": "曲面图设计->用户研究",
+                "others": "弹出式贺卡类比，2D 正面视图，但打开时越来越 3D"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "椭圆图（2.5D）"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "MTSAD: Multivariate Time Series Abnormality Detection and Visualization",
+            "venue": "CCF C",
+            "year": 2019,
+            "others": {
+                "authors": "Pham 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "异常发现"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "IDMVis: Temporal Event Sequence Visualization for Type 1 Diabetes Treatment Decision Support",
+            "venue": "CCF A",
+            "year": 2019,
+            "others": {
+                "authors": "Zhang 等",
+                "底层算法": "界面设计，用户体验实验",
+                "others": "这篇论文似乎是作者将原先的一篇文章拆分成了 这篇和评估 两篇文章"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "并列多条线"
+            ],
+            "数据来源": [
+                "时间事件 血糖水平"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Evaluating Alignment Approaches in Superimposed Time-Series and Temporal Event-Sequence Visualizations",
+            "venue": "CCF A",
+            "year": 2019,
+            "others": {
+                "authors": "Zhang 和 Bartolomeo",
+                "底层算法": "时间事件序列可视化->证明对人探索的效果好的对齐方式",
+                "others": "与IDMVis同一作者，事件序列与时间序列的叠加->时间事件序列可视化"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "并列多条线"
+            ],
+            "数据来源": [
+                "离散时间事件"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Comparing Similarity Perception in Time Series Visualizations",
+            "venue": "CCF A",
+            "year": 2019,
+            "others": {
+                "authors": "Gogolou 等",
+                "底层算法": "针对人的感知，不同相似性算法的不同可视化",
+                "others": "这篇文章有点像李璐师姐毕业论文表达的东西，但是李璐师姐第三个创新点是工具，这里针对人的感知的探究"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "相似性感知"
+            ],
+            "技术分类": [
+                "折线",
+                "水平",
+                "色域"
+            ],
+            "数据来源": [
+                "神经科学数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "TSR-TVD: Temporal Super-Resolution for Time-Varying Data Analysis and Visualization",
+            "venue": "CCF A",
+            "year": 2020,
+            "others": {
+                "authors": "Han 和 Wang",
+                "底层算法": "界面设计-色彩编码，深度学习->提高分辨率",
+                "others": "时空关系很重要，相对于非时空数据（废话吧）"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "高分辨率"
+            ],
+            "数据来源": [
+                "科学数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "The effect of user characteristics in time series visualizations",
+            "venue": "CCF B",
+            "year": 2020,
+            "others": {
+                "authors": "Sheidin 等",
+                "底层算法": "用户特征->六种用户特性->个性化",
+                "others": "测量了四个认知能力水平和两个性格特质对用户完成任务速度和准确性的差异"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "个性化系统"
+            ],
+            "技术分类": [
+                "调研"
+            ],
+            "数据来源": [
+                "Twitter 真实事件数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Uncertainty-aware Visualization of Regional Time Series Correlation in Spatio-temporal Ensembles",
+            "venue": "CCF B",
+            "year": 2021,
+            "others": {
+                "authors": "Evers 等",
+                "底层算法": "图像算法->三维嵌入、图像分割",
+                "others": "算法处理后的图像更易于视觉分析"
+            },
+            "CCF": [
+                "B"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "探索相关性"
+            ],
+            "技术分类": [
+                "二维静态图像（地图）"
+            ],
+            "数据来源": [
+                "时空域模拟数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "SWS: A Complexity-Optimized Solution for Spatial-Temporal Kernel Density Visualization",
+            "venue": "CCF A",
+            "year": 2021,
+            "others": {
+                "authors": "Chan 等",
+                "底层算法": "加速算法->计算优化->滑动窗口",
+                "others": "随时间动态变化"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "核密度"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "MIRIA: A Mixed Reality Toolkit for the In-Situ Visualization and Analysis of Spatio-Temporal Interaction Data",
+            "venue": "CCF A",
+            "year": 2021,
+            "others": {
+                "authors": "Büschel 等",
+                "底层算法": "轨迹使用颜色编码",
+                "others": "可远程"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "现实互动"
+            ],
+            "技术分类": [
+                "3D 或 2D 轨迹"
+            ],
+            "数据来源": [
+                "3D场景采集"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "时序数据跨域关联可视分析",
+            "venue": "CCF B",
             "year": 2022,
-            "VIS": [
-                "Data-VIS Mapping",
-                "Insight Communication"
+            "others": {
+                "authors": "韩贝贝 等",
+                "底层算法": "界面设计->时空域的统计时序数据、认知域的文本主题数据",
+                "others": "跨域互动"
+            },
+            "CCF": [
+                "B"
             ],
-            "ML": [
-                "Reinforcement"
+            "Tag": [
+                "与时间序列可视化有关"
             ],
-            "New Dimension": [
-                "Tag A",
-                "Tag B"
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "多图联动"
+            ],
+            "数据来源": [
+                "疫情与新闻数据"
+            ],
+            "是否阅读": [
+                "是"
             ]
         },
         {
-            "name": "Let the Chart Spark: Embedding Semantic Context into Chart with Text-to-Image Generative Model",
-            "venue": "VIS",
+            "name": "Towards Visualization of Time-Series Ecological Momentary Assessment (EMA) Data on Standalone Voice-First Virtual Assistants",
+            "venue": "CCF C",
+            "year": 2022,
+            "others": {
+                "authors": "Han 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "趋势分析"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training",
+            "venue": "CCF A",
+            "year": 2022,
+            "others": {
+                "authors": "Yang 和 Lin",
+                "底层算法": "界面设计、最佳可视化性能",
+                "others": "不能交互。和DeepVisualInsight作者一样"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "预测"
+            ],
+            "技术分类": [
+                "二维图像"
+            ],
+            "数据来源": [
+                "机器学习过程数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training",
+            "venue": "CCF A",
+            "year": 2022,
+            "others": {
+                "authors": "Yang 和 Lin",
+                "底层算法": "界面设计、最佳可视化性能",
+                "others": "不能交互"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "分类预测"
+            ],
+            "技术分类": [
+                "二维图像"
+            ],
+            "数据来源": [
+                "机器学习过程数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "ConfusionFlow: A Model-Agnostic Visualization for Temporal Analysis of Classifier Confusion",
+            "venue": "CCF A",
+            "year": 2022,
+            "others": {
+                "authors": "Hinterreiter 等",
+                "底层算法": "界面设计、交互",
+                "others": "合作者希望可以有LiveRAC的功能"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "分类比较"
+            ],
+            "技术分类": [
+                "多图",
+                "折线图"
+            ],
+            "数据来源": [
+                "机器学习模型评估数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Color Coding of Large Value Ranges Applied to Meteorological Data",
+            "venue": "CCF A",
+            "year": 2022,
+            "others": {
+                "authors": "Braun 等",
+                "底层算法": "界面设计->色彩编码->尾数和指数",
+                "others": "与 Reclaiming the Horizon 是一个作者"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "散点图"
+            ],
+            "数据来源": [
+                "气象数据",
+                "大范围数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Temporal Merge Tree Maps: A Topology-Based Static Visualization for Temporal Scalar Data",
+            "venue": "CCF A",
             "year": 2023,
-            "VIS": [
-                "Style Imitation"
+            "others": {
+                "authors": "Köpp 和 Weinkauf",
+                "底层算法": "界面设计->时间合并树->数据线性化",
+                "others": "Temporal Treemaps->Temporal Merge Tree Maps"
+            },
+            "CCF": [
+                "A"
             ],
-            "ML": [
-                "Generative"
+            "Tag": [
+                "与时间序列可视化有关"
             ],
-            "New Dimension": [
-                "Tag A"
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "二维静态图像"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
             ]
         },
         {
-            "name": "Beyond Numbers: Creating Analogies to Enhance Data Comprehension and Communication with Generative AI",
-            "venue": "CHI",
-            "year": 2024,
-            "imagePath": "./assets/paperImages/analogies.jpg",
-            "VIS": [
-                "Insight Communication"
+            "name": "OM3: An Ordered Multi-level Min-Max Representation for Interactive Progressive Visualization of Time Series",
+            "venue": "CCF A",
+            "year": 2023,
+            "others": {
+                "authors": "Wang 等",
+                "底层算法": "基于树的数据缩减与数据查询、渐进式可视化，加速算法",
+                "others": "M4->OM3"
+            },
+            "CCF": [
+                "A"
             ],
-            "ML": [
-                "Generative"
+            "Tag": [
+                "与时间序列可视化有关"
             ],
-            "New Dimension": [
-                "Tag B",
-                "Tag D"
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "折线",
+                "散点"
+            ],
+            "数据来源": [
+                "大规模数据",
+                "数据库"
+            ],
+            "是否阅读": [
+                "是"
             ]
         },
         {
-            "name": "DynaVis: Dynamically Synthesized UI Widgets for Visualization Editing",
-            "venue": "CHI",
-            "year": 2024,
-            "imagePath": "./assets/paperImages/DynaVis.png",
-            "VIS": [
-                "VIS Reading",
-                "VIS Interaction"
+            "name": "Attribute-Aware RBFs: Interactive Visualization of Time Series Particle Volumes Using RT Core Range Queries",
+            "venue": "CCF A",
+            "year": 2023,
+            "others": {
+                "authors": "Morrical 等",
+                "底层算法": "界面设计->蓝噪点，加速->使用CPU并行树 ",
+                "others": "可交互"
+            },
+            "CCF": [
+                "A"
             ],
-            "ML": [
-                "Generative"
+            "Tag": [
+                "与时间序列可视化有关"
             ],
-            "New Dimension": [
-                "Tag C",
-                "Tag D"
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "粒子3D数据"
+            ],
+            "数据来源": [
+                "科学数据"
+            ],
+            "是否阅读": [
+                "是"
             ]
         },
         {
-            "name": "DoodleTunes: Interactive Visual Analysis of Music-Inspired Children Doodles with Automated Feature Annotation",
-            "venue": "CHI",
+            "name": "Time Series Representation for Visualization in Apache IoTDB",
+            "venue": "CCF A",
             "year": 2024,
-            "VIS": [
-                "VIS Reading"
+            "others": {
+                "authors": "Rui 等",
+                "底层算法": "降维算法->树、加速算法",
+                "others": "M4->IoTDB，M4技术在特定存储结构（LSM-Tree）中的应用"
+            },
+            "CCF": [
+                "A"
             ],
-            "ML": [
-                "Classification"
+            "Tag": [
+                "与时间序列可视化有关"
             ],
-            "New Dimension": [
-                "Tag B",
-                "Tag D"
+            "任务驱动": [
+                "无"
+            ],
+            "技术分类": [
+                "折线图"
+            ],
+            "数据来源": [
+                "大规模数据",
+                "数据库"
+            ],
+            "是否阅读": [
+                "否"
+            ]
+        },
+        {
+            "name": "Task-oriented analysis and visualization of correlation patterns in multi-sensor time series",
+            "venue": "CCF C",
+            "year": 2024,
+            "others": {
+                "authors": "Sun 等",
+                "底层算法": "",
+                "others": ""
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "观察探索",
+                "分类比较",
+                "趋势分析"
+            ],
+            "技术分类": [
+                "散点+线条"
+            ],
+            "数据来源": [
+                "多领域数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "Reclaiming the Horizon: Novel Visualization Designs for Time-Series Data with Large Value Ranges",
+            "venue": "CCF A",
+            "year": 2024,
+            "others": {
+                "authors": "Braun 等",
+                "底层算法": "界面设计->指数尾数+颜色对应指数等级",
+                "others": "用户研究，视觉有效性、而非交互"
+            },
+            "CCF": [
+                "A"
+            ],
+            "Tag": [
+                "与时间序列可视化有关"
+            ],
+            "任务驱动": [
+                "观察探索"
+            ],
+            "技术分类": [
+                "水平图",
+                "折线图"
+            ],
+            "数据来源": [
+                "大范围数据"
+            ],
+            "是否阅读": [
+                "是"
+            ]
+        },
+        {
+            "name": "fabisearch: A package for change point detection in and visualization of the network structure of multivariate high-dimensional time series in R",
+            "venue": "CCF C",
+            "year": 2024,
+            "others": {
+                "authors": "Ondrus 和 Cribben",
+                "底层算法": "",
+                "others": "R语言写了有着变化点检测和可视化的软件包"
+            },
+            "CCF": [
+                "C"
+            ],
+            "Tag": [
+                "与时间序列可视化关系不大，但是与图像技术相关"
+            ],
+            "任务驱动": [
+                "异常发现",
+                "观察探索"
+            ],
+            "技术分类": [
+                "无"
+            ],
+            "数据来源": [
+                "无"
+            ],
+            "是否阅读": [
+                "否"
             ]
         }
     ]
