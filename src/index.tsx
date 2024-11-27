@@ -121,8 +121,10 @@ export default function App() {
             const ignoreKeys = ['name', 'venue', 'year', 'url', 'imagePath', 'others'];
             return papers.reduce((tagCounts, paper) => {
                 Object.keys(paper).forEach(key => {
+                    ///key 是papaer中的键，比如“CCF”，“任务类型”，“图像类型”
                     if (!ignoreKeys.includes(key)) {
                         paper[key].forEach(tag => {
+                            //tag 是列表中的元素，比如“A”,"趋势分析"
                             if (!(tag in tagCounts)) {
                                 tagCounts[tag] = 1;
                             } else {
@@ -131,6 +133,7 @@ export default function App() {
                         });
                     }
                 });
+                //tagCounts 是一个字典，键是tag，值是tag出现的次数。这是对的，每一个列表元素都记录了
                 return tagCounts;
             }, {});
         };
@@ -191,15 +194,24 @@ export default function App() {
         fetchData(version)
     }
 
+    // const papersAfterFilter = papers.filter((p) => {
+    //     // Check if every category present in the paper has all tags set to true in tagFilters
+    //     const allTagsTrue = Object.keys(tagFilters).every(type =>{
+    //         return p[type] ? p[type].every(tag => tagFilters[type][tag]) : true;
+    //     });
+    //     return allTagsTrue && p['name'].toLowerCase().includes(searchKey);
+    // });
     const papersAfterFilter = papers.filter((p) => {
-        // Check if every category present in the paper has all tags set to true in tagFilters
-        const allTagsTrue = Object.keys(tagFilters).every(type =>
-            p[type] ? p[type].every(tag => tagFilters[type][tag]) : true
-        );
+        // Check if at least one selected tag is present in each category of the paper
+        const anyTagTrue = Object.keys(tagFilters).every(type => {
+            if (p[type]) {
+                return p[type].some(tag => tagFilters[type][tag]);
+            }
+            return true; // If the paper does not have this category, it is considered valid
+        });
 
-        return allTagsTrue && p['name'].toLowerCase().includes(searchKey);
+        return anyTagTrue && p['name'].toLowerCase().includes(searchKey);
     });
-
 
     return (
         <ThemeProvider theme={theme}>

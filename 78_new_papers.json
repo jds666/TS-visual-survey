@@ -1,16 +1,4 @@
-{
-    "title": "Paper Sort",
-    "colors": [
-        "#569c8e",
-        "#dbb651",
-        "#6abae6",
-        "#c9a3cc",
-        "#e8e4b5"
-    ],
-    "homepage": "./",
-    "preprint": "./",
-    "topTheme": "#333",
-    "papers": [
+[
     {
         "name":"ThemeRiver: visualizing thematic changes in large document collections",
         "venue":"CCF A",
@@ -2009,4 +1997,3 @@
         ]
     }
 ]
-}
