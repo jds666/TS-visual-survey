@@ -89,47 +89,50 @@ export function SideBar(props: Props) {
 
     const renderFilters = (typeName: string) => {
         const tagsCollection = props.tagFilters[typeName];
+        console.log(tagsCollection)
         return (
             <>
                 <Typography variant="subtitle2" className={classes.filterTitle}>
                     {typeName} : <Button variant="outlined" size="small" onClick={() => onClickFilter("all", typeName)}>{Object.values(tagsCollection).every(d => d) ? 'Unselect All' : 'Select All'}</Button>
                 </Typography>
                 <div className={classes.filters}>
-                    {Object.entries(tagsCollection).map(([tag, checked]) => (
-                        <Chip
-                            key={tag}
-                            avatar={<AvatarComponent tag={tag} typeName={typeName} bgcolor={getBgColor(typeName)} />}
-                            label={tag}
-                            clickable
-                            variant={checked ? "default" : "outlined"}
-                            style={{
-                                backgroundColor: checked ? getBgColor(typeName) : 'transparent',
-                                color: checked ? 'white' : getBgColor(typeName),
-                            }}
-                            onClick={() => onClickFilter(tag, typeName)}
-                        />
-                    ))}
+                    {Object.entries(tagsCollection).map(([tag, checked]) => { // 添加日志输出
+                        return (
+                            <Chip
+                                key={tag}
+                                avatar={<AvatarComponent tag={tag} typeName={typeName} bgcolor={getBgColor(typeName)}/>}
+                                label={tag}
+                                clickable
+                                variant={checked ? "default" : "outlined"}
+                                style={{
+                                    backgroundColor: checked ? getBgColor(typeName) : 'transparent',
+                                    color: checked ? 'white' : getBgColor(typeName),
+                                }}
+                                onClick={() => onClickFilter(tag, typeName)}
+                            />
+                        );
+                    })}
                 </div>
-                <Divider />
+                <Divider/>
             </>
         );
     };
 
     const drawer = <div className={classes.drawerContainer}>
-        <Toolbar />
+        <Toolbar/>
 
         <Typography variant="h5" className={classes.paperNumber}>
             Papers: {paperNumber}
         </Typography>
 
-        <Divider />
+        <Divider/>
 
         <Typography variant="subtitle2" className={classes.filterTitle}>
             Keywords search:
         </Typography>
         <div className={classes.search}>
             <div className={classes.searchIcon}>
-                <SearchIcon />
+                <SearchIcon/>
             </div>
             <InputBase
                 placeholder="Search…"

@@ -4,6 +4,7 @@ import { Flare } from '@material-ui/icons';
 const titleLineHeight = 1.4
 const titleMaxLines = 3
 
+
 export const useStyles = makeStyles((theme: Theme) =>
     createStyles({
         root: {
@@ -63,7 +64,8 @@ export const useStyles = makeStyles((theme: Theme) =>
             },
         },
         pos: {
-            marginBottom: -5,
+            marginBottom: 1,
+            fontSize: 12,
         },
         avatarGroup: {
             // margin: "0px 6px"
