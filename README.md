@@ -25,8 +25,7 @@
 网站已托管于 GitHub Pages，点击以下链接直接访问：
 [**时序数据可视化综述网站**](https://github.com/ML98K3/interactive-survey-template)
 
---- 
-
+---
 
 ## 致谢  
 本网站基于 [Interactive Survey Template](https://github.com/Visual-Intelligence-UMN/interactive-survey-template) 模板进行开发，感谢模板提供者的支持！  

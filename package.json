@@ -1,9 +1,9 @@
 {
-    "name": "interactive-ml4vis-survey-extension",
+    "name": "ts-visual-survey",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "homepage": "https://visual-intelligence-umn.github.io/interactive-survey-template/",
+    "homepage": "https://ml98k3.github.io/TS-visual-survey/",
     "scripts": {
         "dev": "webpack serve",
         "build": "webpack --mode=production && cp -r assets dist/"
