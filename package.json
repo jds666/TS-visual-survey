@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "homepage": "https://ml98k3.github.io/TS-visual-survey/",
+    "homepage": "https://github.com/jds666/TS-visual-survey",
     "scripts": {
         "dev": "webpack serve",
         "build": "webpack --mode=production && cp -r assets dist/"
