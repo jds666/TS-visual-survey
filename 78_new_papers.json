@@ -1,0 +1,1999 @@
+[
+    {
+        "name":"ThemeRiver: visualizing thematic changes in large document collections",
+        "venue":"CCF A",
+        "year":2002,
+        "others":{
+            "authors":"Havre 等",
+            "创新点":"发明了ThemeRiver可视化方法"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Holographic Video Display of Time-Series Volumetric Medical Data",
+        "venue":"CCF A",
+        "year":2003,
+        "others":{
+            "authors":"Plesniak 等",
+            "创新点":"使用动态电全息术来可视化一系列MRI数据"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "大于2维"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Visually mining and monitoring massive time series",
+        "venue":"CCF A",
+        "year":2004,
+        "others":{
+            "authors":"Lin 等",
+            "创新点":"开发了VizTree系统来同时挖掘历史数据和监控实时数据"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "观察探索"
+        ],
+        "图像类型":[
+            "树与层次图"
+        ],
+        "创新阶段":[
+            "数据管理阶段",
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Time-series Bitmaps: a Practical Visualization Tool for Working with Large Time Series Databases",
+        "venue":"CCF B",
+        "year":2005,
+        "others":{
+            "authors":"Kumar 等",
+            "创新点":"时间序列位图表示与混沌游戏表示法结合"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "网格",
+            "树与层次图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"A spectral visualization system for analyzing financial time series data",
+        "venue":"CCF B",
+        "year":2006,
+        "others":{
+            "authors":"Keim 等",
+            "创新点":"成长矩阵可视化技术与市场基准分析  ，识别市场特征的强弱周期"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "网格"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Multi-resolution techniques for visual exploration of large time-series data",
+        "venue":"CCF B",
+        "year":2007,
+        "others":{
+            "authors":"Hao 等",
+            "创新点":"多分辨率技术与智能时间-数据依赖的视觉聚合"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "网格"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Visualizing multivariate time series data to detect specific medical conditions",
+        "venue":"CCF C",
+        "year":2008,
+        "others":{
+            "authors":"Ordóñez 等",
+            "创新点":"提出MTSA与SAX技术结合"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Stock time series visualization based on data point importance",
+        "venue":"CCF C",
+        "year":2008,
+        "others":{
+            "authors":"Fu 和 Chung",
+            "创新点":"基于数据点重要性进行时间序列符号化"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Sigma lenses: focus-context transitions combining space, time and translucence",
+        "venue":"CCF A",
+        "year":2008,
+        "others":{
+            "authors":"Pietriga 和 Appert",
+            "创新点":"Sigma镜头，结合空间、时间和透明度来实现更有效的过渡"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"LiveRAC: interactive visual exploration of system management time-series data",
+        "venue":"CCF A",
+        "year":2008,
+        "others":{
+            "authors":"McLachlan 等",
+            "创新点":"LiveRAC系统，提供高信息密度的可重新排序矩阵图表，以及适应可用空间的语义缩放功能"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Interactive shape specification for pattern search in time series",
+        "venue":"CCF C",
+        "year":2008,
+        "others":{
+            "authors":"Buono 和 Simeone",
+            "创新点":"改进SearchBox的交互方式"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "用户界面设计阶段"
+        ]
+    },
+    {
+        "name":"Advances in clustering and visualization of time series using GTM through time",
+        "venue":"CCF B",
+        "year":2008,
+        "others":{
+            "authors":"Olier 和 Vellido",
+            "创新点":"基于概率理论的GTM-TT模型与时间序列相关性确定方法"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现"
+        ],
+        "图像类型":[
+            "网格"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Sizing the horizon: the effects of chart size and layering on the graphical perception of time series visualizations",
+        "venue":"CCF A",
+        "year":2009,
+        "others":{
+            "authors":"Heer 等",
+            "创新点":"Sizing the Horizon研究，评估了线图与地平线图在不同尺寸下的效果"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Dynamic Identification and Visualization of Gene Regulatory Networks from Time-Series Gene Expression Profiles",
+        "venue":"CCF C",
+        "year":2009,
+        "others":{
+            "authors":"Chen 和 Han",
+            "创新点":"从时间序列基因表达数据中识别基因调控并动态可视化网络"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "观察探索"
+        ],
+        "图像类型":[
+            "网络图"
+        ],
+        "创新阶段":[
+            "数据管理阶段",
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Stack zooming for multi-focus interaction in time-series data visualization",
+        "venue":"CCF C",
+        "year":2010,
+        "others":{
+            "authors":"Javed 和 Elmqvist",
+            "创新点":"提出stack zooming方法"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "树与层次图"
+        ],
+        "创新阶段":[
+            "用户界面设计阶段"
+        ]
+    },
+    {
+        "name":"SignalLens: Focus+Context Applied to Electronic Time Series",
+        "venue":"CCF A",
+        "year":2010,
+        "others":{
+            "authors":"Kincaid",
+            "创新点":"实现了SignalLens来提供焦点+上下文视图"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段",
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Graphical Perception of Multiple Time Series",
+        "venue":"CCF A",
+        "year":2010,
+        "others":{
+            "authors":"Javed 和 McDonnel",
+            "创新点":"研究表明，使用独立图表的技术（如小多重和地平线图）对于具有大视觉范围的时间序列之间的比较更有效"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "区域"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"GATE: software for the analysis and visualization of high-dimensional time series expression data",
+        "venue":"CCF B",
+        "year":2010,
+        "others":{
+            "authors":"MacArthur 等",
+            "创新点":"GATE软件与相关性基础的聚类算法"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"KronoMiner: using multi-foci navigation for the visual exploration of time-series data",
+        "venue":"CCF A",
+        "year":2011,
+        "others":{
+            "authors":"Zhao 和 Chevalier",
+            "创新点":"KronoMiner工具，嵌入新的交互和可视化技术以及分析能力"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "趋势分析",
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段",
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Exploratory Analysis of Time-Series with ChronoLenses",
+        "venue":"CCF A",
+        "year":2011,
+        "others":{
+            "authors":"Zhao 等",
+            "创新点":"提出了ChronoLenses技术来支持用户进行探索性分析任务"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "趋势分析",
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"CloudLines: Compact Display of Event Episodes in Multiple Time-Series",
+        "venue":"CCF A",
+        "year":2011,
+        "others":{
+            "authors":"Krstajic 等",
+            "创新点":"CloudLines可视化技术，使用交互式扭曲来增强特定兴趣区域的可读性"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "数据管理阶段",
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"STFMap: query- and feature-driven visualization of large time series data sets",
+        "venue":"CCF B",
+        "year":2012,
+        "others":{
+            "authors":"Candan 等",
+            "创新点":"引入STFMap系统，包括四种创新的时间序列数据集可视化技术：(a)段图 (b)变形图 (c)拉伸图 (d)特征图。"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "条形图",
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段",
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"RankExplorer: Visualization of Ranking Changes in Large Time Series Data",
+        "venue":"CCF A",
+        "year":2012,
+        "others":{
+            "authors":"Shi 等",
+            "创新点":"提出了RankExplorer，一种基于主题河流的可视化方法以展示排名的变化"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "观察探索",
+            "观察排名"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Lin-spiration: using a mixture of spiral and linear visualization layouts to explore time series",
+        "venue":"CCF B",
+        "year":2012,
+        "others":{
+            "authors":"Graells 和 Jaimes",
+            "创新点":"Lin-spiration，螺旋与线性布局结合的时序数据探索"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "弧形图"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Comparative Evaluation of an Interactive Time-Series Visualization that Combines Quantitative Data with Qualitative Abstractions",
+        "venue":"CCF B",
+        "year":2012,
+        "others":{
+            "authors":"Aigner 等",
+            "创新点":"提出了适用于患者数据分析的平滑语义缩放技术，并通过实验验证其有效性。"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "条形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"基于ThemeRiver的可视化技术发展综述",
+        "venue":"CCF B",
+        "year":2013,
+        "others":{
+            "authors":"张龙飞 等",
+            "创新点":"综述了ThemeRiver模型在时序数据可视化中的应用，并探讨了其未来的发展趋势。"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "趋势分析"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Visual Traffic Jam Analysis Based on Trajectory Data",
+        "venue":"CCF A",
+        "year":2013,
+        "others":{
+            "authors":"Wang 等",
+            "创新点":"开发了一套交互式系统，用于基于GPS轨迹的城市交通拥堵的可视化分析"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "地图",
+            "网格"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips",
+        "venue":"CCF A",
+        "year":2013,
+        "others":{
+            "authors":"Ferreira 等",
+            "创新点":"提供了一个交互式工具，用于查询和比较不同时间和地点的出租车行程"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "地图",
+            "网格"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Visual Analytics for Model Selection in Time Series Analysis",
+        "venue":"CCF A",
+        "year":2013,
+        "others":{
+            "authors":"Bogl 等",
+            "创新点":"开发了TiMoVA原型，旨在通过视觉分析流程引导领域专家进行模型选择"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "预测分析",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Time series visualization based on shape features",
+        "venue":"CCF C",
+        "year":2013,
+        "others":{
+            "authors":"Li 和 Yang",
+            "创新点":"使用形状特征提取技术并转换为符号串"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "观察探索"
+        ],
+        "图像类型":[
+            "弧形图",
+            "树与层次图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"ParallelCluster:一种时序多维数据的可视化方法",
+        "venue":"CCF B",
+        "year":2013,
+        "others":{
+            "authors":"姚中华 等",
+            "创新点":"通过添加时间轴将平行坐标系扩展至三维空间（ParallelCluster），形成由属性维、值域维、时间维构成的三坐标空间。"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Interactive horizon graphs: improving the compact visualization of multiple time series",
+        "venue":"CCF A",
+        "year":2013,
+        "others":{
+            "authors":"Perin 等",
+            "创新点":"提出了交互式地平图(IHG)，结合了简化线图(RLC)和地平图(HG)的优点，并通过平移缩放交互提高了对多个时间序列的同时分析能力"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"多源网络安全数据时序可视分析方法研究",
+        "venue":"CCF B",
+        "year":2014,
+        "others":{
+            "authors":"赵颖 等",
+            "创新点":"引入堆叠流图到网络安全可视化中，提出多时序对比分析的堆叠流图设计方法。"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "趋势分析"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段",
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Task-driven evaluation of aggregation in time series visualization",
+        "venue":"CCF A",
+        "year":2014,
+        "others":{
+            "authors":"Albers 等",
+            "创新点":"评估了八种不同的设计对于六种聚类时间序列比较任务的支持程度"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "趋势分析",
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "条形图",
+            "区域",
+            "网格"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Stroscope: Multi-Scale Visualization of Irregularly Measured Time-Series Data",
+        "venue":"CCF A",
+        "year":2014,
+        "others":{
+            "authors":"Cho 等",
+            "创新点":"提出了Stroscope，一种结合线图和条形图优点的新颖可视化模型，以及一个交互式的可视化工具"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "趋势分析",
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "条形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Qualizon graphs: space-efficient time-series visualization with qualitative abstractions",
+        "venue":"CCF C",
+        "year":2014,
+        "others":{
+            "authors":"Federico 等",
+            "创新点":"空间高效的时间序列可视化，结合定量数据和定性抽象"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"M4: A Visualization-Oriented Time Series Data Aggregation",
+        "venue":"CCF A",
+        "year":2014,
+        "others":{
+            "authors":"Jugel 等",
+            "创新点":"提出了M4，一种基于聚合的时间序列降维技术，可以提供无错误的可视化结果"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"A strategy-based ecological(?) display for time- series structural change diagnosis",
+        "venue":"CCF C",
+        "year":2014,
+        "others":{
+            "authors":"Hilliard 和 Jamieson",
+            "创新点":"提出基于认知策略的EID方法"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "趋势分析"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "用户界面设计阶段"
+        ]
+    },
+    {
+        "name":"运用平行坐标系的多变元时序数据可视化方法",
+        "venue":"CCF B",
+        "year":2015,
+        "others":{
+            "authors":"董重 和 魏迎梅",
+            "创新点":"提出基于平行坐标系的多变元时序数据可视化方法，通过时间维分段、视觉聚类和颜色绘制三个步骤处理数据"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "趋势分析"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"大规模天文时序粒子数据的可视化",
+        "venue":"CCF A",
+        "year":2015,
+        "others":{
+            "authors":"单桂华 等",
+            "创新点":"提出了基于统计直方图的色调映射算法以及基于关键帧预判插值帧可见性的动态场景剪裁算法"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "点图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Visualization Tool for Boundary Image Matching Based on Time-Series Data",
+        "venue":"CCF B",
+        "year":2015,
+        "others":{
+            "authors":"Moon 等",
+            "创新点":"设计并实现了一个客户端-服务器架构的可视化工具，能够将边界图像转换为时间序列数据，并通过多维索引支持大量的图像时间序列。"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"TimeClassifier: a visual analytic system for the classification of multi-dimensional time series data",
+        "venue":"CCF C",
+        "year":2015,
+        "others":{
+            "authors":"Walker 等",
+            "创新点":"TimeClassifier系统的引入，结合搜索和用户交互"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"一种针对农残检测数据的时序分组可视化方法",
+        "venue":"CCF B",
+        "year":2016,
+        "others":{
+            "authors":"陈红倩 等",
+            "创新点":"提出了一种针对农残检测数据的时序分组可视化方法，基于数据表征意义对数据进行结构分层分组"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "点图",
+            "条形图",
+            "弧形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"多视图合作的网络流量时序数据可视分析",
+        "venue":"CCF A",
+        "year":2016,
+        "others":{
+            "authors":"赵颖 等",
+            "创新点":"提出了ODSP分析流程模型和原型系统"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "预测分析",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "网格",
+            "树与层次图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Visual mining of time series using a tubular visualization",
+        "venue":"CCF C",
+        "year":2016,
+        "others":{
+            "authors":"Bouali 等",
+            "创新点":"使用管状形状表示时间序列，并提供重新排列聚类的新方法"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "网格"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"TSmap3D: Browser visualization of high dimensional time series data",
+        "venue":"CCF C",
+        "year":2016,
+        "others":{
+            "authors":"Kamburugamuve 等",
+            "创新点":"基于MDS的方法将高维时间序列数据投影到3D空间"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "趋势分析",
+            "分类比较"
+        ],
+        "图像类型":[
+            "点图",
+            "大于2维"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Time-Series Plots Integrated in Parallel-Coordinates Displays",
+        "venue":"CCF B",
+        "year":2016,
+        "others":{
+            "authors":"Gruendl 等",
+            "创新点":"将时间序列图集成到并行坐标显示中，探索时间依赖性"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"TimeNotes: A Study on Effective Chart Visualization and Interaction Techniques for Time-Series Data",
+        "venue":"CCF A",
+        "year":2016,
+        "others":{
+            "authors":"Walker 等",
+            "创新点":"比较了现有方法，并评价了交互技术"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"STAC: Enhancing stacked graphs for time series analysis",
+        "venue":"CCF C",
+        "year":2016,
+        "others":{
+            "authors":"Wang 等",
+            "创新点":"开发了一个名为STAC的交互式可视化分析系统，该系统使用辅助视图帮助用户深入分析时间序列数据的相关性"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Matrix Profile III: The Matrix Profile Allows Visualization of Salient Subsequences in Massive Time Series",
+        "venue":"CCF B",
+        "year":2016,
+        "others":{
+            "authors":"Yeh 和 Van Herle",
+            "创新点":"利用矩阵轮廓（Matrix Profile）提取显著子序列，改进MDS可视化"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "点图"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Interactive Visualization of Multivariate Time Series Data",
+        "venue":"CCF B",
+        "year":2016,
+        "others":{
+            "authors":"Martin 和 Quach",
+            "创新点":"Dial-A-Cluster系统，允许用户交互式调整时间序列的影响"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "点图",
+            "线形图"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement",
+        "venue":"CCF A",
+        "year":2017,
+        "others":{
+            "authors":"Bryan 等",
+            "创新点":"提出了TSIs方法来创建故事"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Transition Icons for Time-Series Visualization and Exploratory Analysis",
+        "venue":"CCF C",
+        "year":2018,
+        "others":{
+            "authors":"Nickerson 等",
+            "创新点":"提出了基于SAX表示提取离散转换模式并编译转换频率的过渡图标方法"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Segmented Time-Series Plot: A New Design Technique for Visualization of Industrial Data",
+        "venue":"CCF B",
+        "year":2018,
+        "others":{
+            "authors":"Lei 等",
+            "创新点":"分段时间序列图的设计技术，减少信息过载和界面问题"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"MultiStream: A Multiresolution Streamgraph Approach to Explore Hierarchical Time Series",
+        "venue":"CCF A",
+        "year":2018,
+        "others":{
+            "authors":"Cuenca 等",
+            "创新点":"提出了一种新的多分辨率流图方法"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Identification and visualization of differential isoform expression in RNA-seq time series",
+        "venue":"CCF B",
+        "year":2018,
+        "others":{
+            "authors":"Nueda 等",
+            "创新点":"Iso-maSigPro 分析方法，包括新的聚类和可视化功能"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "点图",
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"面向系统辨识的火电控制时序数据可视分析",
+        "venue":"CCF A",
+        "year":2019,
+        "others":{
+            "authors":"纪连恩 等",
+            "创新点":"设计了imDCS系统，支持系统辨识的全过程"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "预测分析",
+            "趋势分析",
+            "观察探索",
+            "筛选评估"
+        ],
+        "图像类型":[
+            "线形图",
+            "网格"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Temporal Treemaps: Static Visualization of Evolving Trees",
+        "venue":"CCF A",
+        "year":2019,
+        "others":{
+            "authors":"Köpp 和 Weinkauf",
+            "创新点":"支持拓扑变化的静态嵌套可视化"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域",
+            "树与层次图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Popup-Plots: Warping Temporal Data Visualization",
+        "venue":"CCF A",
+        "year":2019,
+        "others":{
+            "authors":"Schmidt 等",
+            "创新点":"提出了Popup-Plots，通过3D旋转交互来观察数据的不同方面"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "观察探索"
+        ],
+        "图像类型":[
+            "大于2维"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"MTSAD: Multivariate Time Series Abnormality Detection and Visualization",
+        "venue":"CCF C",
+        "year":2019,
+        "others":{
+            "authors":"Pham 等",
+            "创新点":"提出了一种通过leave-one-out验证的方法来测量异常分数差异，并跟踪随时间变化的异常变化"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"IDMVis: Temporal Event Sequence Visualization for Type 1 Diabetes Treatment Decision Support",
+        "venue":"CCF A",
+        "year":2019,
+        "others":{
+            "authors":"Zhang 等",
+            "创新点":"通过双哨兵事件对齐和时间轴缩放支持时间推理"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段",
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Evaluating Alignment Approaches in Superimposed Time-Series and Temporal Event-Sequence Visualizations",
+        "venue":"CCF A",
+        "year":2019,
+        "others":{
+            "authors":"Zhang 和 Bartolomeo",
+            "创新点":"双事件对齐技术在复合可视化中的实证评估"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Comparing Similarity Perception in Time Series Visualizations",
+        "venue":"CCF A",
+        "year":2019,
+        "others":{
+            "authors":"Gogolou 等",
+            "创新点":"不同可视化技术对相似性感知的影响"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"TSR-TVD: Temporal Super-Resolution for Time-Varying Data Analysis and Visualization",
+        "venue":"CCF A",
+        "year":2020,
+        "others":{
+            "authors":"Han 和 Wang",
+            "创新点":"提出了TSR-TVD，一种用于时间变化数据的时间超分辨率深度学习框架"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "大于2维"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"SWS: A Complexity-Optimized Solution for Spatial-Temporal Kernel Density Visualization",
+        "venue":"CCF A",
+        "year":2021,
+        "others":{
+            "authors":"Chan 等",
+            "创新点":"开发了一种名为SWS的新方法，该方法可以减少生成时空内核密度估计的时间复杂度"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "观察探索"
+        ],
+        "图像类型":[
+            "网格"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"时序数据跨域关联可视分析",
+        "venue":"CCF B",
+        "year":2022,
+        "others":{
+            "authors":"韩贝贝 等",
+            "创新点":"跨域关联可视分析流程模型和多视图协同"
+        },
+        "CCF":[
+            "B"
+        ],
+        "Tag":[
+            "混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域",
+            "地图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Towards Visualization of Time-Series Ecological Momentary Assessment (EMA) Data on Standalone Voice-First Virtual Assistants",
+        "venue":"CCF C",
+        "year":2022,
+        "others":{
+            "authors":"Han 等",
+            "创新点":"针对老年用户的EMA数据可视化原型系统设计，允许老年人通过带有显示屏的语音助手查询和检查EMA数据，如睡眠质量和时间。"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "用户体验设计阶段"
+        ]
+    },
+    {
+        "name":"Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training",
+        "venue":"CCF A",
+        "year":2022,
+        "others":{
+            "authors":"Yang 和 Lin",
+            "创新点":"时空化技术，提高可视化准确性和效率"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training",
+        "venue":"CCF A",
+        "year":2022,
+        "others":{
+            "authors":"Yang 和 Lin",
+            "创新点":"提出了一种名为DeepVisualInsight的时间旅行可视化解决方案，用于显示深度分类训练过程中分类边界的演化"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "区域"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"ConfusionFlow: A Model-Agnostic Visualization for Temporal Analysis of Classifier Confusion",
+        "venue":"CCF A",
+        "year":2022,
+        "others":{
+            "authors":"Hinterreiter 等",
+            "创新点":"提出了ConfusionFlow，一种用于比较不同时间点分类器性能的可视化工具"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "异常发现",
+            "趋势分析",
+            "分类比较"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Color Coding of Large Value Ranges Applied to Meteorological Data",
+        "venue":"CCF A",
+        "year":2022,
+        "others":{
+            "authors":"Braun 等",
+            "创新点":"新的颜色方案OMC，用于强调大范围值之间的差异"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "点图"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"Temporal Merge Tree Maps: A Topology-Based Static Visualization for Temporal Scalar Data",
+        "venue":"CCF A",
+        "year":2023,
+        "others":{
+            "authors":"Köpp 和 Weinkauf",
+            "创新点":"基于拓扑的时间合并树图，用于展示时间依赖的标量场"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "模式识别",
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "区域",
+            "树与层次图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"OM3: An Ordered Multi-level Min-Max Representation for Interactive Progressive Visualization of Time Series",
+        "venue":"CCF A",
+        "year":2023,
+        "others":{
+            "authors":"Wang 等",
+            "创新点":"OM3：一种新的多级表示方法，支持高效交互式渐进可视化"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Attribute-Aware RBFs: Interactive Visualization of Time Series Particle Volumes Using RT Core Range Queries",
+        "venue":"CCF A",
+        "year":2023,
+        "others":{
+            "authors":"Morrical 等",
+            "创新点":"利用RT核心和Hilbert重排序方案优化树结构"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "大于2维"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Time Series Representation for Visualization in Apache IoTDB",
+        "venue":"CCF A",
+        "year":2024,
+        "others":{
+            "authors":"Rui 等",
+            "创新点":"M4-LSM方法加速M4表示和可视化"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    },
+    {
+        "name":"Task-oriented analysis and visualization of correlation patterns in multi-sensor time series",
+        "venue":"CCF C",
+        "year":2024,
+        "others":{
+            "authors":"Sun 等",
+            "创新点":"从多传感器时间序列中提取相关模式并进行可视化表示"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "趋势分析",
+            "分类比较",
+            "观察探索"
+        ],
+        "图像类型":[
+            "点图",
+            "线形图"
+        ],
+        "创新阶段":[
+            "数据管理阶段",
+            "人机交互阶段"
+        ]
+    },
+    {
+        "name":"Reclaiming the Horizon: Novel Visualization Designs for Time-Series Data with Large Value Ranges",
+        "venue":"CCF A",
+        "year":2024,
+        "others":{
+            "authors":"Braun 等",
+            "创新点":"引入两种新的设计：OMH图和OML图，支持大范围值的可视化"
+        },
+        "CCF":[
+            "A"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "趋势分析",
+            "观察探索"
+        ],
+        "图像类型":[
+            "线形图",
+            "区域"
+        ],
+        "创新阶段":[
+            "界面设计阶段"
+        ]
+    },
+    {
+        "name":"fabisearch: A package for change point detection in and visualization of the network structure of multivariate high-dimensional time series in R",
+        "venue":"CCF C",
+        "year":2024,
+        "others":{
+            "authors":"Ondrus 和 Cribben",
+            "创新点":"在R中实现变化点检测方法和三维脑网络可视化功能"
+        },
+        "CCF":[
+            "C"
+        ],
+        "Tag":[
+            "非混合图"
+        ],
+        "任务类型":[
+            "异常发现",
+            "观察探索"
+        ],
+        "图像类型":[
+            "网络图"
+        ],
+        "创新阶段":[
+            "数据管理阶段"
+        ]
+    }
+]
