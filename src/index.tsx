@@ -14,7 +14,7 @@ import { SideBar } from "./SideBar";
 
 import { useStyles, theme } from "./style";
 
-export const basePath = process.env.NODE_ENV === 'development' ? '' : '/interactive-survey-template/';
+export const basePath = process.env.NODE_ENV === 'development' ? '' : '/TS-visual-survey/';
 
 //Use tags dynamically
 let allTags = {};
